@@ -29,17 +29,17 @@ I love learning new technologies and building real-world projects.
 ## 🧑‍💻 Skills
 
 ### Frontend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 ### Backend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
@@ -48,16 +48,26 @@ I love learning new technologies and building real-world projects.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sehanur-rahman&show_icons=true&include_all_commits=true&count_private=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sehanur-rahman&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800" 
+    alt="GitHub Stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sehanur-rahman" />
+  <img 
+    src="https://streak-stats.demolab.com?user=sehanur-rahman&cache_seconds=1800" 
+    alt="GitHub Streak" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehanur-rahman&layout=compact" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehanur-rahman&layout=compact&cache_seconds=1800" 
+    alt="Top Languages" 
+  />
 </p>
+
 
 ---
 
@@ -69,4 +79,6 @@ I love learning new technologies and building real-world projects.
 ---
 
 
-⭐ **Thank you for visiting my profile!**
+<p align="center">
+  ⭐ <strong>Thank you for visiting my profile!</strong>
+</p>
