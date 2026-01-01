@@ -49,7 +49,7 @@ I love learning new technologies and building real-world projects.
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sehanur24" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sehanur-rahman" 
     alt="GitHub Streak Stats"
   />
 </p>
