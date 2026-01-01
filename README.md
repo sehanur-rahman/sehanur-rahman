@@ -45,6 +45,22 @@ I love learning new technologies and building real-world projects.
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sehanur-rahman&show_icons=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sehanur-rahman" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehanur-rahman&layout=compact" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn:  https://www.linkedin.com/in/sehanur-rahman-siam/
@@ -52,20 +68,5 @@ I love learning new technologies and building real-world projects.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sehanur-rahman&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sehanur-rahman&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehanur-rahman&layout=compact&theme=default" />
-</p>
-
----
 
 ⭐ **Thank you for visiting my profile!**
